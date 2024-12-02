@@ -26,10 +26,3 @@ print('Описание заметок:', content)
 print('Статус заметок:', status)
 print('Дата создания заметок:', created_date[0:6])
 print('Дата истечения заметок (дедлайн):', issue_date[0:6])
-
-
-
-
-
-#print(f'Peter from: {example_dict["country"]}')
-#print(f'His age: {example_dict["age"]}')
